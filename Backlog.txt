@@ -7,3 +7,4 @@ My Backlog
 1.6 As an administrator I want to generate reports.
 1.7 As a user I want to take decisions.
 1.8 As a user I want to change name
+1.9 As a user I wnat to practice.
